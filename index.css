@@ -1,0 +1,16 @@
+p{
+    background-color: #f3e1cd;
+    font-family: "Open Sans";
+    padding:20px;
+    margin:0px;
+    font-size: 22px;
+
+}
+#dark{
+    background-color: black;
+    font-family: "Open Sans";
+    padding:20px;
+    margin:0px;
+    font-size: 22px;
+    color:#ffffff;
+}
